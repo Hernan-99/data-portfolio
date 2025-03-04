@@ -1,9 +1,30 @@
 {
-  "data": [
-    {
-      "id": 1,
-      "name": "proyecto  1",
-      "technologies": ["HTML, CSS, JavaScript, React"]
+  "projects": [
+    { "name": "Landings", "slug": "landings", "projects": [] },
+    { "name": "Ecommerces", "slug": "ecommerces", "projects": [] },
+    { "name": "Games", "slug": "games", "projects": [] },
+    { "name": "Mobile", "slug": "mobile", "projects": [] },
+    { "name": "Wordpress", "slug": "wordpress", "projects": [] },
+    { "name": "Softwares", "slug": "softwares", "projects": [] },
+    { "name": "Experiments", "slug": "experiments", "projects": [] }
+  ],
+  "blogs": {
+    "general": {
+      "algorithms": [],
+      "datastructures": []
+    },
+    "frontend": {
+      "html": [],
+      "css": [],
+      "bootstrap": [],
+      "tailwind": [],
+      "javascript": [],
+      "react": []
+    },
+    "backend": {
+      "python": [],
+      "node": [],
+      "sql": []
     }
-  ]
+  }
 }
