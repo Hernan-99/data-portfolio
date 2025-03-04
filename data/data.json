@@ -1,0 +1,9 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "proyecto  1",
+      "technologies": ["HTML, CSS, JavaScript, React"]
+    }
+  ]
+}
