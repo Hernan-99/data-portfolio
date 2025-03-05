@@ -1,12 +1,10 @@
 {
   "projects": [
-    { "id": 1, "title": "Landings pages", "projects": [] },
-    { "id": 2, "title": "Ecommerces", "projects": [] },
-    { "id": 3, "title": "Juegos", "projects": [] },
+    { "id": 1, "title": "Desarrollo Frontend", "projects": [] },
+    { "id": 2, "title": "Desarrollo Backend", "projects": [] },
+    { "id": 3, "title": "Desarrollo Fullstack", "projects": [] },
     { "id": 4, "title": "Desarrollo movil", "projects": [] },
-    { "id": 5, "title": "Wordpress", "projects": [] },
-    { "id": 6, "title": "Softwares", "projects": [] },
-    { "id": 7, "title": "Desarrollo de APIS RESTful", "projects": [] }
+    { "id": 5, "title": "Wordpress", "projects": [] }
   ],
   "blogs": [
     { "id": 1, "title": "Algoritmos", "post": [] },
