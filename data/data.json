@@ -65,7 +65,7 @@
           "name": "I-lab",
           "description": "Desarrollo de landing page para I-lab. Expertos en servicio técnico especializado en iPhone / multimarca, reparación de placas, cambios de modulos y mucho más.",
           "technolgies": ["HTML", "CSS", "PHP", "WordPress", "Elementor"],
-          "image": "",
+          "image": "https://portfolio-web-sanchez-hernan.netlify.app/assets/img/vivotek.jpg",
           "url": "http://ilab-service.infinityfreeapp.com/"
         }
       ]
