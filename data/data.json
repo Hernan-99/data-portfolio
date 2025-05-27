@@ -106,8 +106,6 @@
     }
   ],
 
-
-
   "blogs": [
     { "id": 1, "title": "Algoritmos", "post": [] },
     { "id": 2, "title": "Estructuras de datos", "post": [] },
@@ -115,11 +113,24 @@
     { "id": 4, "title": "Backend", "post": [] },
     { "id": 5, "title": "SQL", "post": [] }
   ],
+
   "designs": [
     {
       "id": 1,
-      "title": "Proyecto 1",
-      "projects": [{ "name": "", "description": "", "images": [] }]
+      "title": "Barber Blade",
+      "projects": [
+        {
+          "description": "Realice el diseño de Barber Blade, una aplicación destinada a la gestión de turnos.",
+          "technologies": [
+            "Figma",
+            "Illustrator",
+            "Photoshop",
+            "Atomic Design",
+            "Mobile"
+          ],
+          "images": ["https://i.ibb.co/YBsdcN3Y/portada.jpg"]
+        }
+      ]
     },
     {
       "id": 2,
