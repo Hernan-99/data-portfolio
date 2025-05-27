@@ -120,7 +120,7 @@
       "title": "Barber Blade",
       "projects": [
         {
-          "id": 1,
+          "id": 101,
           "name": "Diseño UX/UI Mobile",
           "description": "Realice el diseño de Barber Blade, una aplicación destinada a la gestión de turnos.",
           "technologies": [
@@ -140,7 +140,7 @@
       "title": "Coworks",
       "projects": [
         {
-          "id": 1,
+          "id": 102,
           "name": "Diseño UX/UI Mobile",
           "description": "Realice el diseño de Barber Blade, una aplicación destinada a la gestión de turnos.",
           "technologies": [
@@ -157,10 +157,10 @@
     },
     {
       "id": 3,
-      "title": "Barber Blade",
+      "title": "ParkingApp",
       "projects": [
         {
-          "id": 1,
+          "id": 103,
           "name": "Diseño UX/UI Mobile",
           "description": "Realice el diseño de Barber Blade, una aplicación destinada a la gestión de turnos.",
           "technologies": [
