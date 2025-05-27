@@ -131,7 +131,7 @@
             "Mobile"
           ],
           "image": "https://i.ibb.co/YBsdcN3Y/portada.jpg",
-          "url": "https://www.behance.net/gallery/226435381/Prototipo-barber-blade"
+          "url": "https://www.behance.net/gallery/218187457/Diseno-UX-UI-barberia"
         }
       ]
     },
@@ -142,7 +142,7 @@
         {
           "id": 102,
           "name": "Diseño UX/UI Mobile",
-          "description": "Realice el diseño de Barber Blade, una aplicación destinada a la gestión de turnos.",
+          "description": "Diseño UX UI, para  de Barber Blade, una aplicación destinada a la gestión de turnos.",
           "technologies": [
             "Figma",
             "Illustrator",
@@ -150,19 +150,19 @@
             "Atomic Design",
             "Mobile"
           ],
-          "image": "https://i.ibb.co/YBsdcN3Y/portada.jpg",
-          "url": "http://ilab-service.infinityfreeapp.com/"
+          "image": "https://i.ibb.co/M3hyLyB/Home.jpg",
+          "url": "https://www.behance.net/gallery/206613809/Diseno-de-landing-page"
         }
       ]
     },
     {
       "id": 3,
-      "title": "ParkingApp",
+      "title": "Vivotek - Argentina",
       "projects": [
         {
           "id": 103,
           "name": "Diseño UX/UI Mobile",
-          "description": "Realice el diseño de Barber Blade, una aplicación destinada a la gestión de turnos.",
+          "description": "Diseño para distribuidores multinacionales de camaras vivotek.",
           "technologies": [
             "Figma",
             "Illustrator",
@@ -170,8 +170,8 @@
             "Atomic Design",
             "Mobile"
           ],
-          "image": "https://i.ibb.co/YBsdcN3Y/portada.jpg",
-          "url": "http://ilab-service.infinityfreeapp.com/"
+          "image": "https://i.ibb.co/9kTbHsBy/Wireframe-1.jpg",
+          "url": "https://www.behance.net/gallery/226434821/Vivotek-Argentina"
         }
       ]
     }
