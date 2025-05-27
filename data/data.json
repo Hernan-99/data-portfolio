@@ -120,7 +120,7 @@
       "title": "Barber Blade",
       "projects": [
         {
-          "id": 101,
+          "id": 1,
           "name": "Diseño UX/UI Mobile",
           "description": "Realice el diseño de Barber Blade, una aplicación destinada a la gestión de turnos.",
           "technologies": [
@@ -140,7 +140,7 @@
       "title": "Coworks",
       "projects": [
         {
-          "id": 102,
+          "id": 2,
           "name": "Diseño UX/UI Mobile",
           "description": "Diseño UX UI, para  de Barber Blade, una aplicación destinada a la gestión de turnos.",
           "technologies": [
@@ -160,7 +160,7 @@
       "title": "Vivotek - Argentina",
       "projects": [
         {
-          "id": 103,
+          "id": 3,
           "name": "Diseño UX/UI Mobile",
           "description": "Diseño para distribuidores multinacionales de camaras vivotek.",
           "technologies": [
