@@ -120,6 +120,8 @@
       "title": "Barber Blade",
       "projects": [
         {
+          "id": 1,
+          "name": "Diseño UX/UI Mobile",
           "description": "Realice el diseño de Barber Blade, una aplicación destinada a la gestión de turnos.",
           "technologies": [
             "Figma",
@@ -128,29 +130,50 @@
             "Atomic Design",
             "Mobile"
           ],
-          "image": ["https://i.ibb.co/YBsdcN3Y/portada.jpg"]
+          "image": "https://i.ibb.co/YBsdcN3Y/portada.jpg",
+          "url": "http://ilab-service.infinityfreeapp.com/"
         }
       ]
     },
     {
       "id": 2,
-      "title": "Proyecto 2",
-      "projects": [{ "name": "", "description": "", "images": [] }]
+      "title": "Barber Blade",
+      "projects": [
+        {
+          "id": 1,
+          "name": "Diseño UX/UI Mobile",
+          "description": "Realice el diseño de Barber Blade, una aplicación destinada a la gestión de turnos.",
+          "technologies": [
+            "Figma",
+            "Illustrator",
+            "Photoshop",
+            "Atomic Design",
+            "Mobile"
+          ],
+          "image": "https://i.ibb.co/YBsdcN3Y/portada.jpg",
+          "url": "http://ilab-service.infinityfreeapp.com/"
+        }
+      ]
     },
     {
       "id": 3,
-      "title": "Proyecto 3",
-      "projects": [{ "name": "", "description": "", "images": [] }]
-    },
-    {
-      "id": 4,
-      "title": "Proyecto 4",
-      "projects": [{ "name": "", "description": "", "images": [] }]
-    },
-    {
-      "id": 5,
-      "title": "Proyecto 5",
-      "projects": [{ "name": "", "description": "", "images": [] }]
+      "title": "Barber Blade",
+      "projects": [
+        {
+          "id": 1,
+          "name": "Diseño UX/UI Mobile",
+          "description": "Realice el diseño de Barber Blade, una aplicación destinada a la gestión de turnos.",
+          "technologies": [
+            "Figma",
+            "Illustrator",
+            "Photoshop",
+            "Atomic Design",
+            "Mobile"
+          ],
+          "image": "https://i.ibb.co/YBsdcN3Y/portada.jpg",
+          "url": "http://ilab-service.infinityfreeapp.com/"
+        }
+      ]
     }
   ]
 }
