@@ -6,6 +6,26 @@
       "projects": [
         {
           "id": 1,
+          "name": "TemplateGenerator - Aplicación para crear Emails de Marketing",
+          "description": "Template Generator es una app full stack para crear plantillas de email marketing. Desarrollada con Angular 18, Node.js, Express y MySQL, incluye autenticación con JWT, hash de contraseñas y una API RESTful que permite realizar CRUD tanto de usuarios como de plantillas. Utiliza Sequelize como ORM y ofrece una interfaz moderna con formularios reactivos y gestión de estado con signals.",
+          "technologies": [
+            "HTML",
+            "CSS",
+            "Tailwind",
+            "TypeScript",
+            "Angular (v18)",
+            "Unlayerjs",
+            "Scrollrevealjs",
+            "JWT",
+            "Express.js",
+            "MySQL",
+            "ORM (Sequelize)"
+          ],
+          "image": "https://i.ibb.co/Ng3BddS9/app-demo.jpg",
+          "url": "https://template-generator-demo.netlify.app"
+        },
+        {
+          "id": 2,
           "name": "Vivotek - Argentina",
           "description": "Desarrollo fullstack para empresa local distribuidora de cámaras de seguridad Vivotek. Este desarrollo incluyó tanto la landing page pública como un sistema interno de gestión. Para el frontend comercial utilicé Vue 3 con Nuxt.js, para optimizar el SEO y el rendimiento, con un catálogo dinámico de productos y diseño responsive. En paralelo, implementé un dashboard administrativo con Node.js, Express y MySQL, que permitía la carga y gestión de productos, seguimiento de ventas y operaciones CRUD. ",
           "technologies": [
@@ -23,7 +43,7 @@
           "url": "https://indore-plants-web.netlify.app/"
         },
         {
-          "id": 2,
+          "id": 3,
           "name": "Landing page cafeteria",
           "description": "En el año 2019, Desarrolle esta landing page para Trecaffè, una casa de café especializado, utilizando tecnologías fundamentales del frontend: HTML5, CSS3, JavaScript y jQuery. Implementé efectos fluidos con jQuery para transiciones suaves, asegurando un rendimiento óptimo y compatibilidad cross-browser. La página es completamente responsive, adaptándose desde móviles hasta desktop, con un enfoque en la estética minimalista.",
           "technologies": ["HTML", "CSS", "Vanilla JavaScript", "JQuery"],
@@ -31,7 +51,7 @@
           "url": "https://trecafe1.netlify.app/"
         },
         {
-          "id": 3,
+          "id": 4,
           "name": "Formulario para DOMO",
           "description": "Desarrollo de formulario responsive para DOMO utilizando HTML5, CSS3, Bootstrap 5 y JavaScript. La implementación incluyó diseño accesible y adaptativo a distintos dispositivos, para mejorar la experiencia del usuario. ",
           "technologies": ["HTML", "CSS", "BootStrap", "JavaScript"],
@@ -39,7 +59,7 @@
           "url": "https://lighthearted-monstera-4695ec.netlify.app/"
         },
         {
-          "id": 4,
+          "id": 5,
           "name": "Menu de restaurante - landing page",
           "description": "Landing page interactiva, utilizando HTML5, CSS3 y vanilla JavaScript para crear una experiencia digital que reflejara la esencia gourmet del establecimiento. El diseño responsive se adapta a distintos dispositivos, destacando una galería visual de sus platos. Implementé efectos de scroll suave y animaciones discretas para mejorar la interacción. La página fue optimizada para garantizar tiempos de carga rápidos. El resultado fue una plataforma digital que no solo muestra la propuesta culinaria del restaurante, sino que también incrementó significativamente las consultas y reservas mediante una interfaz intuitiva y visualmente atractiva.",
           "technologies": ["HTML", "CSS", "BootStrap", "JavaScript"],
@@ -54,11 +74,23 @@
       "projects": [
         {
           "id": 1,
-          "name": "",
-          "description": "",
-          "technologies": [],
-          "image": "",
-          "url": ""
+          "name": "TemplateGenerator - Aplicación para crear Emails de Marketing",
+          "description": "Template Generator es una app full stack para crear plantillas de email marketing. Desarrollada con Angular 18, Node.js, Express y MySQL, incluye autenticación con JWT, hash de contraseñas y una API RESTful que permite realizar CRUD tanto de usuarios como de plantillas. Utiliza Sequelize como ORM y ofrece una interfaz moderna con formularios reactivos y gestión de estado con signals.",
+          "technologies": [
+            "HTML",
+            "CSS",
+            "Tailwind",
+            "TypeScript",
+            "Angular (v18)",
+            "Unlayerjs",
+            "Scrollrevealjs",
+            "JWT",
+            "Express.js",
+            "MySQL",
+            "ORM (Sequelize)"
+          ],
+          "image": "https://i.ibb.co/Ng3BddS9/app-demo.jpg",
+          "url": "https://github.com/Hernan-99/TemplateGeneratorBackend.git"
         }
       ]
     },
@@ -68,11 +100,23 @@
       "projects": [
         {
           "id": 1,
-          "name": "",
-          "description": "",
-          "technologies": [],
-          "image": "",
-          "url": ""
+          "name": "TemplateGenerator - Aplicación para crear Emails de Marketing",
+          "description": "Template Generator es una app full stack para crear plantillas de email marketing. Desarrollada con Angular 18, Node.js, Express y MySQL, incluye autenticación con JWT, hash de contraseñas y una API RESTful que permite realizar CRUD tanto de usuarios como de plantillas. Utiliza Sequelize como ORM y ofrece una interfaz moderna con formularios reactivos y gestión de estado con signals.",
+          "technologies": [
+            "HTML",
+            "CSS",
+            "Tailwind",
+            "TypeScript",
+            "Angular (v18)",
+            "Unlayerjs",
+            "Scrollrevealjs",
+            "JWT",
+            "Express.js",
+            "MySQL",
+            "ORM (Sequelize)"
+          ],
+          "image": "https://i.ibb.co/Ng3BddS9/app-demo.jpg",
+          "url": "https://template-generator-demo.netlify.app"
         }
       ]
     },
@@ -92,6 +136,44 @@
     },
     {
       "id": 5,
+      "title": "Desarrollo de juegos",
+      "projects": [
+        {
+          "id": 1,
+          "name": "Preguntas y respuestas",
+          "description": "Juego interactivo de preguntas y respuestas sobre fisica, desarrollado con React y TypeScript, diseñado para ofrecer una experiencia divertida y educativa. Los jugadores deben responder correctamente a una serie de preguntas de opción múltiple. El sistema lleva el puntaje, muestra retroalimentación inmediata.",
+          "technologies": [
+            "HTML",
+            "CSS",
+            "BootStrap",
+            "React Bootstrap",
+            "Axios",
+            "TypeScript",
+            "React"
+          ],
+          "image": "https://i.ibb.co/Z6ZThPc3/Captura-de-pantalla-2025-07-15-121513.jpg",
+          "url": "https://preguntas-y-respuestas-game.netlify.app/"
+        },
+        {
+          "id": 2,
+          "name": "¿Cual es mi número?",
+          "description": "Juego de adivinanzas. Desarrollado en html, css y vanilla javascript",
+          "technologies": ["HTML", "CSS", "JavaScript"],
+          "image": "https://i.ibb.co/rK9pRKMR/Captura-de-pantalla-2025-07-15-122132.jpg",
+          "url": "https://app.netlify.com/projects/cual-es-mi-numero/"
+        },
+        {
+          "id": 3,
+          "name": "Dados game",
+          "description": "Juego de dados desarrollado con sistema de retroalimentacion y puntaje",
+          "technologies": ["HTML", "CSS", "JavaScript"],
+          "image": "https://i.ibb.co/mrLHpw7S/dados.jpg",
+          "url": "https://juego-de-dados.netlify.app/"
+        }
+      ]
+    },
+    {
+      "id": 6,
       "title": "Wordpress",
       "projects": [
         {
